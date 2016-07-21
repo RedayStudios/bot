@@ -217,7 +217,7 @@ def echo(bot, update):
 #
 def main():
     # Create the EventHandler and pass it your bot's token.
-    updater = Updater("ТОКЕН")
+    updater = Updater("221791426:AAGRMjmhyhGehCpT0SvkYUfLBlvLtpMpB_M")
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
     # on different commands - answer in Telegram
